@@ -1,7 +1,7 @@
 # RecommendationSystem
 Recommendation System For OTT Based VOD Contents
 
-#TOC
+
 1.	The Problem
 2.  Introduction
   2.1 What is OTT and ott players - Netflix, Zee5, AltBalaji etc
