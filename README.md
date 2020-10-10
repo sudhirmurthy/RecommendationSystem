@@ -1,5 +1,5 @@
-# RecommendationSystem
-Recommendation System For OTT Based VOD Contents
+# Recommendation System Based on User Rating
+Recommendation System For OTT VOD Contents Based on User Rating
 
 
 1.	The Problem
